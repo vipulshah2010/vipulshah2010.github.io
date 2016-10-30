@@ -1,0 +1,29 @@
+
+title: Profile
+url: 'http://vipulshah2010.github.io'
+baseurl: '/vipulshah2010.github.io' #change it according to your repository name
+
+
+# Enable one of these styles by removing #
+#style: styles-2
+#style: styles-3
+#style: styles-4
+#style: styles-5
+#style: styles-6
+
+
+
+
+#Profile information
+name: Vipul Shah
+tagline: Android/iOS App Developer
+pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+#sidebar links
+email: vipulshah2010@gmail.com
+phone: +918879133347
+website: http://vipulshah2010.github.io/
+linkedin: vipulshah123
+github: vipulshah2010
+twitter: '@_vipuls'
+
